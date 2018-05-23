@@ -1,9 +1,9 @@
-C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\obj\Debug\netcoreapp2.0\XPNet.CLR.csproj.CoreCompileInputs.cache
-C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\obj\Debug\netcoreapp2.0\XPNet.CLR.AssemblyInfoInputs.cache
-C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\obj\Debug\netcoreapp2.0\XPNet.CLR.AssemblyInfo.cs
 C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\bin\Debug\netcoreapp2.0\XPNet.CLR.deps.json
 C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\bin\Debug\netcoreapp2.0\XPNet.CLR.dll
 C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\bin\Debug\netcoreapp2.0\XPNet.CLR.pdb
+C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\obj\Debug\netcoreapp2.0\XPNet.CLR.csprojAssemblyReference.cache
+C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\obj\Debug\netcoreapp2.0\XPNet.CLR.csproj.CoreCompileInputs.cache
+C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\obj\Debug\netcoreapp2.0\XPNet.CLR.AssemblyInfoInputs.cache
+C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\obj\Debug\netcoreapp2.0\XPNet.CLR.AssemblyInfo.cs
 C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\obj\Debug\netcoreapp2.0\XPNet.CLR.dll
 C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\obj\Debug\netcoreapp2.0\XPNet.CLR.pdb
-C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\obj\Debug\netcoreapp2.0\XPNet.CLR.csprojAssemblyReference.cache
