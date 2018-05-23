@@ -4357,11 +4357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\XPNet-master\\XPNet.LoggerPlugin\\XPNet.LoggerPlugin.csproj",
+      "projectUniqueName": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\RealSimGear-XPlugin\\XPNet-master\\XPNet.LoggerPlugin\\XPNet.LoggerPlugin.csproj",
       "projectName": "XPNet.LoggerPlugin",
-      "projectPath": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\XPNet-master\\XPNet.LoggerPlugin\\XPNet.LoggerPlugin.csproj",
+      "projectPath": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\RealSimGear-XPlugin\\XPNet-master\\XPNet.LoggerPlugin\\XPNet.LoggerPlugin.csproj",
       "packagesPath": "C:\\Users\\Jarrod Barker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\XPNet-master\\XPNet.LoggerPlugin\\obj\\",
+      "outputPath": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\RealSimGear-XPlugin\\XPNet-master\\XPNet.LoggerPlugin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4380,8 +4380,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\XPNet-master\\XPNet.CLR\\XPNet.CLR.csproj": {
-              "projectPath": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\XPNet-master\\XPNet.CLR\\XPNet.CLR.csproj"
+            "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\RealSimGear-XPlugin\\XPNet-master\\XPNet.CLR\\XPNet.CLR.csproj": {
+              "projectPath": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\RealSimGear-XPlugin\\XPNet-master\\XPNet.CLR\\XPNet.CLR.csproj"
             }
           }
         }

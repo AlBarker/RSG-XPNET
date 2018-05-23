@@ -23,7 +23,7 @@ namespace XPNet
                     if (DetectArduino())
                     {
                         portFound = true;
-                        Console.WriteLine("Arduino found!");
+                        m_api.Log.Log("Arduino found!");
                         break;
                     }
                     else
@@ -33,7 +33,7 @@ namespace XPNet
                 }
 
                 if (!portFound)
-                    Console.WriteLine("Could not find Arduino");
+                    m_api.Log.Log("Could not find Arduino");
             }
             catch (Exception e)
             {
@@ -83,8 +83,9 @@ namespace XPNet
                 try
                 {
                     string message = currentPort.ReadLine();
-                    Console.WriteLine(message);
-                    sendCommand(message);
+                    //Console.WriteLine(message);
+                    sendCommand("sim/GPS/g430n1_cdi");
+                    m_api.Log.Log("ard_send_messagesim/GPS/g430n1_cdi");
                     //PluginAdapter.SendXplaneCommand(message);
                 }
                 catch (TimeoutException)

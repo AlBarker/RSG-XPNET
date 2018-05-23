@@ -10,3 +10,14 @@ C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.LoggerPlugin\obj\
 C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.LoggerPlugin\obj\Release\netcoreapp2.0\XPNet.LoggerPlugin.csproj.CopyComplete
 C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.LoggerPlugin\obj\Release\netcoreapp2.0\XPNet.LoggerPlugin.dll
 C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.LoggerPlugin\obj\Release\netcoreapp2.0\XPNet.LoggerPlugin.pdb
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\bin\Release\netcoreapp2.0\XPNet.LoggerPlugin.deps.json
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\bin\Release\netcoreapp2.0\XPNet.LoggerPlugin.dll
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\bin\Release\netcoreapp2.0\XPNet.LoggerPlugin.pdb
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\bin\Release\netcoreapp2.0\XPNet.CLR.dll
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\bin\Release\netcoreapp2.0\XPNet.CLR.pdb
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\obj\Release\netcoreapp2.0\XPNet.LoggerPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\obj\Release\netcoreapp2.0\XPNet.LoggerPlugin.AssemblyInfoInputs.cache
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\obj\Release\netcoreapp2.0\XPNet.LoggerPlugin.AssemblyInfo.cs
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\obj\Release\netcoreapp2.0\XPNet.LoggerPlugin.csproj.CopyComplete
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\obj\Release\netcoreapp2.0\XPNet.LoggerPlugin.dll
+C:\Users\Jarrod Barker\Documents\xplane dev\RealSimGear-XPlugin\XPNet-master\XPNet.LoggerPlugin\obj\Release\netcoreapp2.0\XPNet.LoggerPlugin.pdb

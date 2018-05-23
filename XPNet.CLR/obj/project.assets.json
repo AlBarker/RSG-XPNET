@@ -4117,11 +4117,11 @@
   "project": {
     "version": "0.8.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\XPNet-master\\XPNet.CLR\\XPNet.CLR.csproj",
+      "projectUniqueName": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\RealSimGear-XPlugin\\XPNet-master\\XPNet.CLR\\XPNet.CLR.csproj",
       "projectName": "XPNet",
-      "projectPath": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\XPNet-master\\XPNet.CLR\\XPNet.CLR.csproj",
+      "projectPath": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\RealSimGear-XPlugin\\XPNet-master\\XPNet.CLR\\XPNet.CLR.csproj",
       "packagesPath": "C:\\Users\\Jarrod Barker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\XPNet-master\\XPNet.CLR\\obj\\",
+      "outputPath": "C:\\Users\\Jarrod Barker\\Documents\\xplane dev\\RealSimGear-XPlugin\\XPNet-master\\XPNet.CLR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

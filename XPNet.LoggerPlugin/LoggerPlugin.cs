@@ -26,7 +26,7 @@ namespace XPNet
         {
             m_api = api ?? throw new ArgumentNullException("api");
 
-            m_api.Log.Log("LoggerPlugin: Started");
+            m_api.Log.Log("LoggerPlugin: StartedNEW");
 
             m_api.ConfigChanged += OnConfigurationChanged;
 
@@ -154,7 +154,10 @@ namespace XPNet
         {
             m_api.Log.Log($"LoggerPlugin: Hook(Now = {DateTime.Now.ToString("T")}, SinceLastCall = {elapsedTimeSinceLastCall.TotalSeconds}s, SinceLastLoop = {elapsedTimeSinceLastFlightLoop}s, Counter = {counter:000000})");
             LogDataRefs();
-            m_api.Log.Log("");
+            m_api.Log.Log("ard_after_flight_hook_logdatarefs");
+            var cmd = m_api.Commands.GetCommand("sim/GPS/g430n1_cdi");
+            cmd.InvokeOnce();
+            m_api.Log.Log("cmd_sent_sim / GPS / g430n1_cdi");
 
             return FlightLoopTime.FromSeconds(1.0f);
         }

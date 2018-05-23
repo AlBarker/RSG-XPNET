@@ -1,2 +1,7 @@
-﻿     Creating library C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Debug\XPNet.Native.lib and object C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Debug\XPNet.Native.exp
+﻿  Platform.cpp
+  xpnetclrhost.cpp
+  XPNetPlugin.cpp
+  Generating Code...
+  dllmain.cpp
+     Creating library C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Debug\XPNet.Native.lib and object C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Debug\XPNet.Native.exp
   XPNet.Native.vcxproj -> C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Debug\XPNet.Native.dll
