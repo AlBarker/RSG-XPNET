@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  stdafx.cpp
+  XPLMTestHarness.cpp
+     Creating library C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Release\XPLM_64.lib and object C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Release\XPLM_64.exp
+  Generating code
+  All 1224 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  XPLMTestHarness.vcxproj -> C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Release\XPLM_64.dll

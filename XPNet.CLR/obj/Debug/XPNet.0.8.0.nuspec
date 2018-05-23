@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>XPNet</id>
+    <version>0.8.0</version>
+    <authors>Stephen Quattlebaum</authors>
+    <owners>Stephen Quattlebaum</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/jaurenq/XPNet</projectUrl>
+    <description>Develop plugins for X-Plane in .NET.</description>
+    <releaseNotes>Preprelease package for testing.</releaseNotes>
+    <copyright>Copyright 2017 (c) Stephen Quattlebaum</copyright>
+    <tags>x-plane xplane plugin</tags>
+    <repository type="Git" url="https://github.com/jaurenq/XPNet" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Primitives" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.Loader" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\XPNet.CLR\bin\Debug\netcoreapp2.0\XPNet.CLR.dll" target="lib\netcoreapp2.0\XPNet.CLR.dll" />
+  </files>
+</package>

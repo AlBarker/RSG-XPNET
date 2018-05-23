@@ -1,0 +1,9 @@
+﻿  Platform.cpp
+  xpnetclrhost.cpp
+  XPNetPlugin.cpp
+  dllmain.cpp
+     Creating library C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Release\XPNet.Native.lib and object C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Release\XPNet.Native.exp
+  Generating code
+  All 709 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  XPNet.Native.vcxproj -> C:\Users\Jarrod Barker\Documents\xplane dev\XPNet-master\x64\Release\XPNet.Native.dll
